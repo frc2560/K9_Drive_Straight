@@ -1,0 +1,2 @@
+C:\Users\kdehaan42\source\repos\K9_Drive\K9_Drive\obj\Debug\K9_Drive.csprojAssemblyReference.cache
+C:\Users\kdehaan42\source\repos\K9_Drive\K9_Drive\obj\Debug\TinyCLR_DebugReferences.cache
